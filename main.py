@@ -1,6 +1,5 @@
 import speech_recognition as sr
 import pyttsx3
-import webbrowser
 from datetime import date, timedelta, datetime
 import serial  # used to communicate with Arduino board
 import pyowm  # used to tell the weather
